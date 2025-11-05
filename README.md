@@ -47,8 +47,8 @@ This repository contains the **landing page** of the project — focused entirel
    Run the development server
    ````
    npm run dev
-   
    ````
+   
    ## Contact 
    Created by Jhon Everton
    For collaboration or feedback, reach out via GitHub or email.
